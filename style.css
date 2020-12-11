@@ -9,7 +9,7 @@ div {
     height: 1300px;
     padding: 5px;
     text-align: center;
-    background-image:url("foto/senis.jpg");
+    background-image:url("senis.jpg");
     background-repeat:repeat-x;
     background-position: bottom;
 }
